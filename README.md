@@ -4,6 +4,7 @@
 
 - Lookout - [Technical Analysis of the Pegasus Exploits on iOS](https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf)
 - [Chasing Shadows: Cyber Espionage, Subversion, and the Global Fight for Democracy by Ronald Diebert](https://www.simonandschuster.com/books/Chasing-Shadows/Ronald-J-Deibert/9781668014042)
+- [From Trump supporters to a human rights attorney: the digital influencers who harassed a journalist](https://forbiddenstories.org/story-killers-digital-influencers/)
 
 
 
