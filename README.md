@@ -6,7 +6,7 @@
 - [Chasing Shadows: Cyber Espionage, Subversion, and the Global Fight for Democracy by Ronald Diebert](https://www.simonandschuster.com/books/Chasing-Shadows/Ronald-J-Deibert/9781668014042)
 - [From Trump supporters to a human rights attorney: the digital influencers who harassed a journalist](https://forbiddenstories.org/story-killers-digital-influencers/)
 - [Attacking NGO Research with Pseudoscience - Nestori Syynimaa](https://www.cmu.edu/ideas-social-cybersecurity/events/syynimaa_attacking_ngo.pdf)
-
+- [1000 pages of harassment](https://docs.google.com/document/d/11YWR2uVQIYYIPKIInHs5wO3L-dbZAcnNpURNQzJzctE/edit?tab=t.0)
 
 
 
